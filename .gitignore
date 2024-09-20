@@ -1,4 +1,6 @@
-
+learning_code1/data/*
+learning_code1/model/*
+learning_code1/picture/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
